@@ -3,8 +3,10 @@
 
 This project presents an interactive Coffee Shop Sales Dashboard designed to analyze sales performance across time, locations, and product categories.
 The dashboard helps stakeholders understand customer behavior, revenue drivers, and operational patterns to support data-driven decision-making.
+
 <img width="1895" height="762" alt="coffee_shop_sales_dashboard" src="https://github.com/user-attachments/assets/ab64fcd4-85ec-48b1-8705-7bee6bceff72" />
-Objectives
+
+<h3>Objectives</h3>
 1. Analyze overall sales and order trends
 2. Identify peak hours and high-performing days
 3. Compare store-level performance
