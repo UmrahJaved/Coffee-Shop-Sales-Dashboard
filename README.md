@@ -7,17 +7,22 @@ The dashboard helps stakeholders understand customer behavior, revenue drivers, 
 <img width="1895" height="762" alt="coffee_shop_sales_dashboard" src="https://github.com/user-attachments/assets/ab64fcd4-85ec-48b1-8705-7bee6bceff72" />
 
 <h3>Objectives</h3>
+
 1. Analyze overall sales and order trends
+
 2. Identify peak hours and high-performing days
+
 3. Compare store-level performance
+
 4. Understand product category and beverage popularity
+
 5. Provide actionable business insights
 
 <h3>Key Insights</h3>
 <h4>Overall Performance</h4>
 <ul> 
 <li>Generated $698.8K in total sales from 149,116 orders.</li>
-<li> bill value is $4.69, indicating a high-volume, low-ticket sales model.</li>
+<li> Average bill value is $4.69, indicating a high-volume, low-ticket sales model.</li>
 </ul>
 <h4>Time-Based Trends</h4>
 <ul> 
